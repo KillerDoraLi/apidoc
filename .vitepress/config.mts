@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "接口文档",
   description: "青云端接口文档",
-  base: "/api-interface-documentation/",
+  base: "/apidoc/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
