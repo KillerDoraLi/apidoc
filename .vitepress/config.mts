@@ -7,9 +7,9 @@ export default defineConfig({
   base: "/apidoc/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/api-examples' }
-    ],
+    // nav: [
+    //   { text: 'Home', link: '/' }
+    // ],
     sidebar: [
       { text: '开发前必读', link: '/api-examples' },
       {
