@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,a3 as e}from"./chunks/framework.DDCARjJn.js";const m=JSON.parse('{"title":"交易异步通知","description":"","frontmatter":{},"headers":[],"relativePath":"trade-notify.md","filePath":"trade-notify.md"}'),o={name:"trade-notify.md"},a=e("",5),s=[a];function n(_,i,c,p,u,l){return r(),d("div",null,s)}const q=t(o,[["render",n]]);export{m as __pageData,q as default};

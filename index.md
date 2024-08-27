@@ -4,8 +4,6 @@ layout: doc
 
 # 开发前必读
 
-
-
 ## 测试环境API网关
 
 BASE_URL: http://stag.tsingpay.cn
