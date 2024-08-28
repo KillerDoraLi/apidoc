@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "接口文档",
+  title: "青云端接口文档",
   description: "青云端接口文档",
   base: "/apidoc/",
   themeConfig: {
@@ -10,6 +10,7 @@ export default defineConfig({
     // nav: [
     //   { text: 'Home', link: '/' }
     // ],
+    logo: './theme/logo.png',
     sidebar: [
       { text: '开发前必读', link: '/api-examples' },
       {
@@ -37,8 +38,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    // ]
   }
 })
