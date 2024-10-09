@@ -2,15 +2,16 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "德米接口文档",
-  description: "德米接口文档",
+  title: "德米财税接口文档",
+  description: "德米财税接口文档",
   base: "/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' }
     // ],
-    logo: './theme/logo.png',
+    // logo: '../assets/logo.png',
+    siteTitle: '德米财税接口文档',
     sidebar: [
       { text: '开发前必读', link: '/api-examples' },
       {
