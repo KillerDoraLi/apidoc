@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "青云端接口文档",
-  description: "青云端接口文档",
+  title: "德米接口文档",
+  description: "德米接口文档",
   base: "/apidoc/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

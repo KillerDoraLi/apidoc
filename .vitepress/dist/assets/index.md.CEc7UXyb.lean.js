@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.DDCARjJn.js";const F=JSON.parse('{"title":"开发前必读","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),h={name:"index.md"},k=n("",16),p=[k];function t(l,e,E,r,d,g){return a(),i("div",null,p)}const c=s(h,[["render",t]]);export{F as __pageData,c as default};
