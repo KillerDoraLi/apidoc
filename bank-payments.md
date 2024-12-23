@@ -31,7 +31,6 @@
 | time_stamp | 是 | 字符串 | 请求时间戳 |
 | sign | 是 | 字符串 | 签名 |
 | out_order_no | 是 | 字符串 | 接入方系统唯一订单号 |
-| pay_channel_code | 是 | 字符串 | 支付通道代码，如 XT0001 |
 | card_number | 是 | 字符串 | 收款人卡号 |
 | account_name | 是 | 字符串 | 收款人姓名 |
 | bank_name | 否 | 字符串 | 收款银行名称简称，例如， 招商银行 |

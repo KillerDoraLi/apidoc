@@ -42,7 +42,7 @@
     "created_at": "2021-11-02T07:09:30Z",
     "partner_app_id": "2021081811091302",
     "partner_user_id": "211403198307188237",
-    "status": "success",
+    "status": "success", // success: 成功；failed: 失败；pending: 用户还完成，或者系统还没审批
     "updated_at": "2021-11-02T08:58:01Z",
     "member":{
       "id": 1,
