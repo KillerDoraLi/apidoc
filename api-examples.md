@@ -4,7 +4,7 @@
 
 ## 测试环境API网关
 
-BASE_URL: http://stag.tsingpay.cn
+BASE_URL: http://stag.q-yd.cn
 
 ## 接口使用 AppID + APP Secret 通过 HMAC SHA1 加密鉴权
 - App ID：渠道唯一性标示符，由系统分配。

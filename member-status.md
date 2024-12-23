@@ -42,7 +42,7 @@
     "created_at": "2021-11-02T07:09:30Z",
     "partner_app_id": "2021081811091302",
     "partner_user_id": "211403198307188237",
-    "status": "success",
+    "status": "success", // success: 成功；failed: 失败；pending: 用户还完成，或者系统还没审批
     "updated_at": "2021-11-02T08:58:01Z",
     "member":{
       "id": 1,
@@ -92,5 +92,5 @@
 | user_id | 是 | 字符串 | 调用方唯一的用户id |
 | tx_seq_no | 是 | 字符串 | 合作方调用用户信息认证接口时传入的流水号 |
 | id_no | 是 | 字符串 | 身份证号 |
-| status | 是 | 字符串 | 认证状态 | 
+| status | 是 | 字符串 | 认证状态<br>（success: 成功；failed: 失败；pending: 用户还完成，或者系统还没审批） | 
 | message | 否 | 字符串 | 认证结果信息 | 
