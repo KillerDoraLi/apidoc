@@ -29,6 +29,8 @@
 
 **响应结果示例：**
 
+> 状态类型: FAILED 支付失败， PROCESSING 处理中, PENDING 待处理, SUCCESS 支付成功
+
 ```json
 {
   "code": "0000",
